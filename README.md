@@ -18,9 +18,16 @@ Any additional information goes here
 - [@octokatherine](https://www.github.com/octokatherine)
 
 
+<<<<<<< HEAD
 ## About 
  -about must be there
  
  ## theme
  -theme already taken
+=======
+## Contact
+
+-Contact must be there
+>>>>>>> dummy
+
 
