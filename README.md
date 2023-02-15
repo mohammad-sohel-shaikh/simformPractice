@@ -23,4 +23,7 @@ Any additional information goes here
 
 ## About 
  -about must be there
+ 
+ ## theme
+ -theme already taken
 
