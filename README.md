@@ -22,6 +22,3 @@ Any additional information goes here
 
 -Contact must be there
 
-## About
- -about must be provided
- 
